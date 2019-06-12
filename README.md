@@ -1,9 +1,9 @@
 # SMB
 
-A full powershell SMB scanner
-Also Useful to get last reboot date/time
-The first time, I am trying to play with Tcpclient and SMB.
-Tested in production with Windows and not Windows targets
+    A full powershell SMB scanner
+    Also Useful to get last reboot date/time
+    The first time, I am trying to play with Tcpclient and SMB.
+    Tested in production with Windows and no Windows targets.
 
 .DESCRIPTION
 
