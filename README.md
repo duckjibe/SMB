@@ -1,5 +1,10 @@
 # SMB
 
+A full powershell SMB scanner
+Also Useful to get last reboot date/time
+The first time, I am trying to play with Tcpclient and SMB.
+Tested in production with Windows and not Windows targets
+
 .DESCRIPTION
 
     Get higher SMB dialect and signing setting from a given computer name.
@@ -78,3 +83,7 @@
 Screenshot
 
 ![Screenshot](capture1.png)
+
+![Screenshot](capture2.png)
+
+![Screenshot](capture3.png)
