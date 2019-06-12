@@ -14,7 +14,8 @@
         PushToTcpPort
         GetOutput
 
-.PARAMETER   
+.PARAMETER
+
     -ComputerName   : Computer name or IP
     -TrustedDomain  : FQDN Domain Name (not used to query only to output reference)
     -SMBV1          : Query SMBV1 only
