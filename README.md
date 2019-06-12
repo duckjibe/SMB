@@ -25,6 +25,7 @@
 
     # SMBV2 and SMBV1 =================
     .\Get-SMBversion.ps1  (default current computer)
+    
     .\Get-SMBversion.ps1 -ComputerName W2012R2SRV -TrustedDomain contoso.com
     Negotiating SMBV2 dialect on:  W2012R2SRV
      SMBV2 Negotiated Dialect   :  SMB 3.2
