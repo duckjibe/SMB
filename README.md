@@ -74,3 +74,7 @@
     Reference:
         https://msdn.microsoft.com/en-us/library/cc246482.aspx
         https://msdn.microsoft.com/en-us/library/cc246561.aspx
+
+Screenshot
+
+![Screenshot](capture1.png)
